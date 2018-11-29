@@ -12,3 +12,15 @@ scss stylesheets
 
 Fully functional as of Nov. 24 2018
 Kalish
+
+
+#Instructions
+
+> npm install -g nodemon
+
+Then run nodemon
+> nodemon
+
+then navigate to ngFullBlend and run 
+> ng serve
+
