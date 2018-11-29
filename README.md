@@ -15,12 +15,15 @@ Kalish
 
 
 #Instructions
-
+> npm install
 > npm install -g nodemon
 
 Then run nodemon
 > nodemon
 
-then navigate to ngFullBlend and run 
+Then navigate to ngFullBlend and run 
+> npm install
+
+Then
 > ng serve
 
